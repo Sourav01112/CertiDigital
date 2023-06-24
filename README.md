@@ -189,7 +189,7 @@ Following are the simple steps to run this project.
 - [redis] - Response optimization 
 
 
-## Contributors ✨
+<!-- ## Contributors ✨
 <table>
 <tr>
     <td align="center">
@@ -262,4 +262,4 @@ Following are the simple steps to run this project.
     </td>
   </tr>
   </table>
-  
+   -->
